@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aryan Tiwari (@aryanT-aficionado)
+# 👋 Hi, I’m Aryan Tiwari
 
 ## 👀 About Me
 I'm a passionate data science and machine learning enthusiast with a strong background in computer science and computational science. Currently pursuing my MSc in Data and Computational Science at University College Dublin (UCD), I focus on applying machine learning models and algorithms to solve real-world problems. My experience spans across various domains, including agriculture, medical, business, and deep learning research.
@@ -14,7 +14,7 @@ I'm a passionate data science and machine learning enthusiast with a strong back
 ## 💼 Research Papers
 - **"Thyroid Disease Detection using ML Model"** – Investigated multiple machine learning algorithms for efficient and accurate thyroid disease classification.
 
-## 💞️ I’m Looking to Collaborate On
+## 💞️ I’m Looking to Work and Collaborate On
 - **Data Analytics and Data Science Projects**: I’m seeking opportunities to work on data-driven projects where I can apply my expertise in data analysis, machine learning, and computational science. I'm especially interested in roles involving data modeling, predictive analytics, and solving complex real-world problems with innovative data solutions.
 - **Research in Data Science**: Projects related to deep learning, medical imaging, or precision agriculture where my research background can contribute to impactful solutions.
 

@@ -19,6 +19,6 @@ I'm a passionate data science and machine learning enthusiast with a strong back
 - **Research in Data Science**: Projects related to deep learning, medical imaging, or precision agriculture where my research background can contribute to impactful solutions.
 
 ## 📫 How to Reach Me
-- Email: aryantiwari082@outlook.com, atdublinmail@gmail.com
+- Email: aryantiwari082@outlook.com, aryan.tiwari@ucdconnect.ie, atdublinmail@gmail.com.
 
 Feel free to connect with me for collaborations, knowledge sharing, or if you just want to chat about the latest trends in data science, machine learning, and web development!
